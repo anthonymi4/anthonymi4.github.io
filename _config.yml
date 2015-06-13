@@ -26,7 +26,8 @@
 title: Material Design
 email: naveen@pixelblenders.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hello, I'm Anthony, an Engineer, Developer and Tech enthusiast. Check out my projects on GitHub
+  Hello, I'm Anthony, an Engineer, Developer and Tech enthusiast. 
+  Check out my projects on GitHub
 baseurl: "/material/" # the subpath of your site, e.g. /blog/
 url: "http://anthonymi4.github.io/material" # the base hostname & protocol for your site
 twitter_username: anthonymi4
